@@ -1,0 +1,22 @@
+Tests mit:
+________________________________________________________________
+Paketverlustrate = 0
+Verzögesrungsdauer = 100
+
+Datenrate in der vergangenen Sekunde: 0,007 MB/s 
+Gesamte Bytes: 711768
+Gesamte Übertragungszeit: 95236ms
+
+Datenübertragungsrate(Brutto): 0,007 MB/s
+Durchsatzrate(Netto): 0,007 MB/s
+
+2019/01/18 12:07:38( 0,007 MB/s) - <Kopie von wallpaper.jpg> gespeichert [710067]
+
+=> Praktische Dauer
+===================
+= 95,236s
+
+Theoretische Dauer
+=====================
+4746 (Pakete) * 200 ms
+= 95,1 s
