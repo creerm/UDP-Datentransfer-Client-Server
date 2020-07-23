@@ -1,6 +1,6 @@
 Jonathan Vincent Cremer
-s758412
-16/041/61
+
+Aufgabeneschreibung und Lösung in der doc/Dokumentation
 
 Debuginfos
 ===============
