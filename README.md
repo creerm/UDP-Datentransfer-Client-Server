@@ -1,6 +1,6 @@
 Jonathan Vincent Cremer
 
-Aufgabeneschreibung und Lösung in ./doc/Dokumentation
+Aufgabeneschreibung und Lösung in doc/Dokumentation
 
 Debuginfos
 ===============
